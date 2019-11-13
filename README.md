@@ -46,10 +46,10 @@
 <p><b>Hobby-uri:</b></p> 
 <li><i>fitness</i></li>
 <li><i>gaming</i></li>
-<script>
 
 
-</script>
+
+
 </head>
 </body>
 </html>
