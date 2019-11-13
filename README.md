@@ -10,8 +10,7 @@
 
 <p><b>E-mail:</b> <i>sseby219@gmail.com</i></p>
 
-<p><b>Poza:</b> 
-<img src="lab4.jpg" width="100px" height="100"></p>
+<p><b>Poza:</b> </p>
 <button onclick="myFunction()">Click me</button>
 <p><b>Citat:</b><i>"Nu lasa pe maine ce poti face cu 2 saptamani in urma"</i></p> 
 
